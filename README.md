@@ -1,3 +1,4 @@
+# Sample Teach JSM
 ## Learning Objectives:
 	Introduce higher-order functions
 	Introduce higher-order functions used in array traversal
@@ -36,7 +37,7 @@ Guide student practice by working on activity together with students.
 
 1. We write a function logging each element of the array to console
 2. We write a function taking a callback and evoking it with each element of the array
-	
+
     *Works for side-effects or using external collections but how to encapsulate that?*
 
 3. We write map
@@ -55,4 +56,4 @@ Guide student practice by working on activity together with students.
 - How will students summarize and state the significance of what they learned?
 - How does the lesson relate to the task they’ll be asked to do? How will you preview the homework assignment?
 
-	Using map and filter, given an array of objects (people), filter the array by an attribute (age) and return an array of another attribute (name) along with the original array. 
+	Using map and filter, given an array of objects (people), filter the array by an attribute (age) and return an array of another attribute (name) along with the original array.
